@@ -3,3 +3,5 @@
 venv/
 .DS_Store
 
+# Cache by folder
+1-Python-Basics/__pycache__/
