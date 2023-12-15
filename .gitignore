@@ -7,3 +7,6 @@ venv/
 1-Python-Basics/__pycache__/
 2-Foundations-of-Data-Science/__pycache__/
 3-Translate-Data-Into-Insights/__pycache__/
+
+# Datasets
+3-Translate-Data-Into-Insights/datasets/eda_lighting.csv
