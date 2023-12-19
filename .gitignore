@@ -10,3 +10,5 @@ venv/
 
 # Datasets
 3-Translate-Data-Into-Insights/datasets/eda_lighting.csv
+3-Translate-Data-Into-Insights/datasets/eda_label_encoding_dataset.csv
+
